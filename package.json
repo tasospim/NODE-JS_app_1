@@ -1,0 +1,23 @@
+{
+  "name": "node_app1",
+  "version": "1.0.0",
+  "description": "My 1st Nodejs Test App for github",
+  "main": "node_app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasospim/NODE-JS_app_1.git"
+  },
+  "author": "POIMENIDIS ANASTASIOS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasospim/NODE-JS_app_1/issues"
+  },
+  "homepage": "https://github.com/tasospim/NODE-JS_app_1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
